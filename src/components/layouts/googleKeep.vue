@@ -36,7 +36,7 @@
           <v-list-tile
             v-else
             :key="i"
-            @click=""
+            @click="tenHam"
           >
             <v-list-tile-action>
               <v-icon>{{ item.icon }}</v-icon>

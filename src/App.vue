@@ -13,7 +13,7 @@ import GoogleKeep from './components/layouts/googleKeep.vue'
 export default {
   name: 'app',
   components: {
-    GoogleKeep
+    GoogleKeep, HelloWorld
   }
 }
 </script>
